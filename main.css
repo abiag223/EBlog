@@ -1,0 +1,72 @@
+html, body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0;
+
+
+    h1 {
+        color: #f6f5f1;
+        font-size: 60;
+        text-align: center;
+        margin: 0 0 15px 0;
+        margin-top: 100px;
+        
+      }
+
+      h2{ 
+        text-align: center;
+        border-color: transparent;
+        background-color: black;
+        height: 30px;
+        
+        color: white;
+      }
+
+
+      .nav li{
+        display: inline;
+        padding-right: 20px;
+    
+
+     
+     }   
+
+      
+    .Senthout{
+        display: inline;
+        width: 450px;
+        text-align: center;
+        color:white
+
+    }
+    body{
+
+        background-image: url("pinkblueFlrw.jpg");
+        background-repeat: no-repeat;
+      /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+    
+    
+    }
+
+    
+      
+    
+
+  
+}
+    
+    
+        
+
+     
+      
+
+     
+        
+    
